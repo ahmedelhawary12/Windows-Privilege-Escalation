@@ -1,6 +1,5 @@
 # Windows-Privilege-Escalation
 Check List Windows Privilege Escalation
-![2025-02-24 16_49_49-kali-linux-2024.3-vmware-amd64 - VMware Workstation.png](attachment:e6a2759c-e47d-4821-bc17-58809345149b:2025-02-24_16_49_49-kali-linux-2024.3-vmware-amd64_-_VMware_Workstation.png)
 
 ### 1- **Scheduled Tasks**
 
