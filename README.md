@@ -211,7 +211,7 @@ or can make it manual
 - Run PrintSpoofer in Interactive Mode
     - `C:\PrivEsc\PrintSpoofer.exe -i -c cmd.exe`
 
-### use automated enumeration to all service , you can use tool like
+## use automated enumeration to all service , you can use tool like
 
 - windows-privesc-check
 - Watson
