@@ -1,7 +1,7 @@
 # Check-List-Windows-Privilege-Escalation
 Check List Windows Privilege Escalation
 
-### Scheduled Tasks**
+### Scheduled Tasks
 
 - Scheduled tasks can run programs or scripts automatically. If a task's
 executable can be modified by our user, we can insert malicious code for
@@ -26,7 +26,7 @@ privilege escalation.
 
 ### 
 
-### Always Install Elevated**
+### Always Install Elevated
 
 - Windows `.msi` installer files are used to install programs. Normally, they run with the same permissions as the user who starts them. But some `.msi` files can be set to run with **higher privileges**, even from a low-privilege user.
 - **Why is this important?**
@@ -52,7 +52,7 @@ privilege escalation.
     - Run the MSI File on Windows (with Admin Privileges)
         - **`C:\> msiexec /quiet /qn /i C:\Windows\Temp\malicious.msi`**
 
-### Insecure Permissions on Service Executable**
+### Insecure Permissions on Service Executable
 
 - If the service's executable has weak permissions, an attacker can replace it
 with a malicious file.
