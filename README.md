@@ -1,4 +1,4 @@
-# Windows-Privilege-Escalation
+# Check-List-Windows-Privilege-Escalation
 Check List Windows Privilege Escalation
 
 ### 1- **Scheduled Tasks**
